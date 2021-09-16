@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mrC75IOuFKp0UQimusrPmxf5d/2wvDSGXfn5sVwHmdFBGn6RLQXppl/1XUwZq2UfL5sxENb4quHm1tsAtk0y4A==",
+  "success": true,
+  "projectFilePath": "D:\\WebMotors\\WebMotors.Domain\\WebMotors.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafa_\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

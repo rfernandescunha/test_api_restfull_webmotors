@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WCal41tbZpy5udKGbtcFvVRUXrAK9AB3p3r2AQF+efggaIznDjPgDCUguJwBBkvRQniR/Rr6fi8AtPk6fjxcJA==",
+  "success": true,
+  "projectFilePath": "D:\\WebMotors\\WebMotors.Application\\WebMotors.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafa_\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\rafa_\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
+    "C:\\Users\\rafa_\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\rafa_\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
